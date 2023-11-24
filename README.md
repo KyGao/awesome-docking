@@ -1,5 +1,6 @@
-# awesome-docking
-
+<h1 align="center">
+🔥 Awesome Docking 🔥
+</h1>
 <div align="center">
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![Stars](https://img.shields.io/github/stars/KyGao/awesome-docking?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/KyGao/awesome-docking?color=blue&label=Fork&labelColor=555555)
@@ -8,7 +9,7 @@
   <img src="resources/cover.png" width="400">
 </p>
 
-🔥 Alphafold-latest and RFAA have  revolutionize the scope of docking. Previous work was focused on modeling different components separately, but these two studies have used a single model to simultaneously model all biomolecular interactions. Here is a curated paper list containing all kinds of deep learning-based docking, covering **Protein-Ligand Docking**, **Protein-Protein Docking**, **Protein-Nucleic Acid Docking**, and **Covalent Docking**. Additionally, we refer to works capable of handling various types of docking scenarios simultaneously as '**Versatile Docking**'. Future work will encompass tools, datasets, scoring function design, and other relvant topics. Within each category, entries are listed in reverse chronological order, with the most recent first. If a paper has multiple versions, we reference the initial publication date. The following badges are used for according purpose: 
+Alphafold-latest🔥 and RFAA have  revolutionize the scope of docking. Previous work was focused on modeling different components separately, but these two studies have used a single model to simultaneously model all biomolecular interactions. Here is a curated paper list containing all kinds of deep learning-based docking, covering **Protein-Ligand Docking**, **Protein-Protein Docking**, **Protein-Nucleic Acid Docking**, and **Covalent Docking**. Additionally, we refer to works capable of handling various types of docking scenarios simultaneously as '**Versatile Docking**'. Future work will encompass tools, datasets, scoring function design, and other relvant topics. Within each category, entries are listed in reverse chronological order, with the most recent first. If a paper has multiple versions, we reference the initial publication date. The following badges are used for according purpose: 
 
 ![](https://img.shields.io/badge/paper-5291C8?style=flat&logo=Read.cv&labelColor=555555) ![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555&logocolor=555555) ![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)  ![](https://img.shields.io/badge/tag-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
@@ -19,11 +20,11 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 - [Versatile Docking](#versatile-docking)
 - [Survey](#survey)
 - [Protein-Ligand Docking](#protein-ligand-docking)
-  - [Year 2023 -- Protein-Ligand Docking](#year-2023----protein-ligand-docking)
-  - [Year 2022 -- Protein-Ligand Docking](#year-2022----protein-ligand-docking)
+  - [2023](#2023)
+  - [2022](#2022)
 - [Protein-Protein Docking](#protein-protein-docking)
-  - [Year 2023 -- Protein-Protein Docking](#year-2023----protein-protein-docking)
-  - [Year 2022 -- Protein-Protein Docking](#year-2022----protein-protein-docking)
+  - [2023](#2023)
+  - [2022](#2022)
 - [Protein-Nucleic Acid Docking](#protein-nucleic-acid-docking)
 - [Covalent Docking](#covalent-docking)
 
@@ -31,13 +32,13 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 
 ## Versatile Docking
 
-**A glimpse of the next generation of AlphaFold**🔥   
+🔥**A glimpse of the next generation of AlphaFold**   
 Google DeepMind AlphaFold team and Isomorphic Labs team  
 *News, October 2023*  
 [![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
 [![](https://img.shields.io/badge/news-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold)
     
-**Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**🔥   
+🔥**Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**
 Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David Baker  
 *Preprint, October 2023*  
 [![](https://img.shields.io/badge/bioxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.09.561603)
@@ -46,7 +47,7 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Survey
 
 ## Protein-Ligand Docking
-### Year 2023 -- Protein-Ligand Docking
+### 2023 
 
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
 Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé  
@@ -91,7 +92,7 @@ Yuejiang Yu, Shuqi Lu, Zhifeng Gao, Hang Zheng, Guolin Ke
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fd91f8c48b273bb6c256d5ed4e250edd1b156fa%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
-**DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**🔥   
+🔥**DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**   
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola  
 *ICLR, Feburary 2023*  
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=kKF8_K-mBbS)
@@ -116,7 +117,7 @@ Yangtian Zhang, Huiyu Cai, Chence Shi, Jian Tang
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7cfc990d89875342528b760a4ffed9de47010b03%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
-### Year 2022 -- Protein-Ligand Docking
+### 2022 
 
 **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction**  
 Wei Lu, Qifeng Wu, Jixian Zhang, Jiahua Rao, Chengtao Li, Shuangjia Zheng  
@@ -137,8 +138,8 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 ![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ## Protein-Protein Docking
-### Year 2023 -- Protein-Protein Docking
-### Year 2022 -- Protein-Protein Docking
+### 2023 
+### 2022 
 
 ## Protein-Nucleic Acid Docking
 
