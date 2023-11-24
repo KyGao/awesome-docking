@@ -1,5 +1,5 @@
 <h1 align="center">
-🔥 Awesome Docking 🔥
+🧬 Awesome Docking
 </h1>
 <div align="center">
   
@@ -20,11 +20,11 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 - [Versatile Docking](#versatile-docking)
 - [Survey](#survey)
 - [Protein-Ligand Docking](#protein-ligand-docking)
-  - [2023](#2023)
-  - [2022](#2022)
+  - [Year 2023 -- Protein-Ligand](#year-2023----protein-ligand)
+  - [Year 2022 -- Protein-Ligand](#year-2022----protein-ligand)
 - [Protein-Protein Docking](#protein-protein-docking)
-  - [2023](#2023)
-  - [2022](#2022)
+  - [Year 2023 -- Protein-Protein](#year-2023----protein-protein)
+  - [Year 2022 -- Protein-Protein](#year-2022----protein-protein)
 - [Protein-Nucleic Acid Docking](#protein-nucleic-acid-docking)
 - [Covalent Docking](#covalent-docking)
 
