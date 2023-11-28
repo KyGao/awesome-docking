@@ -150,6 +150,14 @@ Minkyung Baek, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, Frank D
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/uw-ipd/RoseTTAFold2NA)
 ![Stars](https://img.shields.io/github/stars/uw-ipd/RoseTTAFold2NA?color=yellow&style=social)
 
+**EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks**  
+Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, Debswapna Bhattacharya  
+*BioRxiv, September 2023*  
+[![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/search/Protein-Nucleic%252BAcid%252B)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Bhattacharya-Lab/EquiPNAS)
+![Stars](https://img.shields.io/github/stars/Bhattacharya-Lab/EquiPNAS?color=yellow&style=social)
+![](https://img.shields.io/badge/protein_language_model-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **Evaluating native-like structures of RNA-protein complexes through the deep learning method**  
 Chengwei Zeng, Yiren Jian, Soroush Vosoughi, Chen Zeng, Yunjie Zhao  
 *Nature Communications, February 2023*  
