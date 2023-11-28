@@ -142,6 +142,12 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 ### Year 2022 -- Protein-Protein 
 
 ## Protein-Nucleic Acid Docking
-
+**Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNA**  
+Minkyung Baek, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, Frank DiMaio  
+*Nature Methods, November 2023*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-023-02086-5)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c0ad28901d1cae2cc6c7b9c1f66e9e46afc5ec5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/uw-ipd/RoseTTAFold2NA)
+![Stars](https://img.shields.io/github/stars/uw-ipd/RoseTTAFold2NA?color=yellow&style=social)
 ## Covalent Docking
 
