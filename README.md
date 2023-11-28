@@ -149,5 +149,30 @@ Minkyung Baek, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, Frank D
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c0ad28901d1cae2cc6c7b9c1f66e9e46afc5ec5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/uw-ipd/RoseTTAFold2NA)
 ![Stars](https://img.shields.io/github/stars/uw-ipd/RoseTTAFold2NA?color=yellow&style=social)
+
+**Evaluating native-like structures of RNA-protein complexes through the deep learning method**  
+Chengwei Zeng, Yiren Jian, Soroush Vosoughi, Chen Zeng, Yunjie Zhao  
+*Nature Communications, February 2023*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43253ab8bfa9f19c18764fdcfb550395f5cdfc75%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Zhaolab-GitHub/DRPScore_v1.0)
+![Stars](https://img.shields.io/github/stars/Zhaolab-GitHub/DRPScore_v1.0?color=yellow&style=social)
+![](https://img.shields.io/badge/evaluation-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+**Protein–RNA interaction prediction with deep learning: structure matters**  
+Junkang Wei, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li  
+*Briefings in Bioinformatics， January 2022*  
+[![](https://img.shields.io/badge/BrefInBio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/23/1/bbab540/6470965)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd8eb3568107b21787751cd6c25776aacfa991979%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/review-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+**Challenges in structural modeling of RNA-protein interactions**  
+Xudong Liu, Yingtian Duan, Xu Hong, Juan Xie, Shiyong Liu  
+*Current Opinion in Structural Biology, June 2023*  
+[![](https://img.shields.io/badge/StructuralBiology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/pii/S0959440X23000970)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb56c2784e1154c86541ee16b1aaeacfc6a46a321%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/review-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
 ## Covalent Docking
 
