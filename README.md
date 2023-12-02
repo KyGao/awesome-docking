@@ -184,3 +184,18 @@ Xudong Liu, Yingtian Duan, Xu Hong, Juan Xie, Shiyong Liu
 
 ## Covalent Docking
 
+**CovPDB: a high-resolution coverage of the covalent protein–ligand interactome**  
+Mingjie Gao, Aurélien F. A. Moumbock, Ammar Qaseem, Qianqing Xu, S. Günther  
+*Nucleic Acids Research, September 2021*  
+[![](https://img.shields.io/badge/Nucleic_Acids_Res.-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/50/D1/D445/6377397)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovPDB%253A-a-high-resolution-coverage-of-the-covalent-Gao-Moumbock%2Fa800cdd78504470a4b8c3a5fd31879a249686676%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/webpage-8A2BE2)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
+![](https://img.shields.io/badge/dataset-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+**CovalentDock: Automated covalent docking with parameterized covalent linkage energy estimation and molecular geometry constraints**  
+Xuchang Ouyang, Shuo Zhou, C. Su, Z. Ge, Runtao Li, C. Kwoh  
+*Journal of Computational Chemistry, February 2013*  
+[![](https://img.shields.io/badge/Computational_Chemistry-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://onlinelibrary.wiley.com/doi/10.1002/jcc.23136)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovalentDock%253A-Automated-covalent-docking-with-and-Ouyang-Zhou%2F13e5c154c51d9d9950b8eca7668d4e83b957c1ae%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=googlecloud&labelColor=555555)](https://code.google.com/archive/p/covalentdock/)
+![](https://img.shields.io/badge/Autodock_based-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
