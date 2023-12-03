@@ -120,7 +120,7 @@ Xing Du, Yi Li, Yuan-Ling Xia, Shi-Meng Ai, Jing Liang, Peng Sang, Xing-Lai Ji, 
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
 Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé  
 *Preprint, November 2023*  
-[![](https://img.shields.io/badge/bioxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.11.03.565471)
+[![](https://img.shields.io/badge/bioxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubmed.ncbi.nlm.nih.gov/37745556/)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3660911f955c532c186de3b52b03396c851c0aac%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/patrickbryant1/Umol)
 ![Stars](https://img.shields.io/github/stars/patrickbryant1/Umol?color=yellow&style=social)
