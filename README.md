@@ -33,6 +33,8 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   - [2022 -- Protein-Nucleic Acid](#2022----protein-nucleic-acid)
 - [Covalent Docking](#covalent-docking)
 - [Docking Tools](#docking-tools)
+  - [Open-source and free access](#open-source-and-free-access)
+  - [Commercial tools](#commercial-tool)
 
 ---
 
@@ -313,3 +315,17 @@ Xuchang Ouyang, Shuo Zhou, C. Su, Z. Ge, Runtao Li, C. Kwoh
 ![](https://img.shields.io/badge/Autodock_based-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ## Docking Tools
+### Open-source and free access
+
+🔥[Smina](https://sourceforge.net/projects/smina/)   
+🔥[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ![](https://img.shields.io/badge/software-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)   
+🔥[AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ![](https://img.shields.io/badge/software-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)   
+[AutoDockTools](https://ccsb.scripps.edu/mgltools/) ![](https://img.shields.io/badge/interactive-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+[AutoDock](https://ccsb.scripps.edu/projects/docking/) [![](https://img.shields.io/badge/NatureProtocols-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/50/D1/D445/6377397)   
+[SwissDock](http://www.swissdock.ch/) [![](https://img.shields.io/badge/Nucleic_Acids_Res.-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/39/suppl_2/W270/2506492?login=true)   
+[rDock](https://rdock.github.io/) [![](https://img.shields.io/badge/PlosCompBio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003571) 
+
+### Commercial tool
+🔥[GOLD](https://www.ch.cam.ac.uk/computing/software/gold-suite) [![](https://img.shields.io/badge/J.Mol.Bio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S0022283696908979?via%3Dihub)  
+🔥[Glide](https://www.schrodinger.com/products/glide) [![](https://img.shields.io/badge/J.Med.Chem.-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/jm030644s)  
+[MOE-Dock](https://www.computabio.com/molecular-docking-service.html)  
