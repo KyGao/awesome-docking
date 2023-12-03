@@ -118,6 +118,13 @@ Xing Du, Yi Li, Yuan-Ling Xia, Shi-Meng Ai, Jing Liang, Peng Sang, Xing-Lai Ji, 
 
 ## Protein-Ligand Docking
 ### 2023 -- Protein-Ligand 
+**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
+Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu 
+*Preprint, December 2023*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.18574)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbedc29f7b553bd322df265e2c5a215f1dfd19b4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/known--pocket_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)
 
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
 Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé  
