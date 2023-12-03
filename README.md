@@ -184,6 +184,21 @@ Xudong Liu, Yingtian Duan, Xu Hong, Juan Xie, Shiyong Liu
 
 ## Covalent Docking
 
+**Docking covalent targets for drug discovery: stimulating the computer-aided drug design community of possible pitfalls and erroneous practices**  
+A. Oyedele, A. Ogunlana, I. Boyenle, A. Adeyemi, Temionu Oluwakemi Rita, Temitope Isaac Adelusi, M. Abdul-Hammed, Oluwabamise Emmanuel Elegbeleye, Tope T. Odunitan   
+*Molecular Diversity, September 2022*  
+[![](https://img.shields.io/badge/Molecular_Diversity-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s11030-022-10523-4)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FDocking-covalent-targets-for-drug-discovery%253A-the-of-Oyedele-Ogunlana%2Ff347739ce3bbe75cf8bebe42aebbed12d4d9da6c%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/survey-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
+
+**Cov_DOX: A Method for Structure Prediction of Covalent Protein–Ligand Bindings**  
+Lin Wei, Yaru Chen, Jiaqi Liu, Li Rao, Yanliang Ren, Xin Xu, Jian Wan  
+*Journal of Medicinal Chemistry, March 2022*  
+[![](https://img.shields.io/badge/Medicinal_Chemistry-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.1c02007)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCov_DOX%253A-A-Method-for-Structure-Prediction-of-Wei-Chen%2Fec80310e4d4a9f0308963e1cfccbd624d9fde2da%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/based_on_noncovalent_method-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
 **CovPDB: a high-resolution coverage of the covalent protein–ligand interactome**  
 Mingjie Gao, Aurélien F. A. Moumbock, Ammar Qaseem, Qianqing Xu, S. Günther  
 *Nucleic Acids Research, September 2021*  
@@ -191,6 +206,30 @@ Mingjie Gao, Aurélien F. A. Moumbock, Ammar Qaseem, Qianqing Xu, S. Günther
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovPDB%253A-a-high-resolution-coverage-of-the-covalent-Gao-Moumbock%2Fa800cdd78504470a4b8c3a5fd31879a249686676%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/webpage-8A2BE2)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+**Fragment-based covalent ligand discovery**  
+Wenchao Lu, M. Kostic, Tinghu Zhang, Jianwei Che, M. Patricelli, L. Jones, Edward T. Chouchani, N. Gray  
+*RSC Chemical Biology, February 2021*  
+[![](https://img.shields.io/badge/RSC_Chemical_Biology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlelanding/2021/CB/D0CB00222D)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FFragment-based-covalent-ligand-discovery-Lu-Kostic%2Fb525ba2c0b80e4587f2b1c6f667cf0009a46b356%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/hybrid_method-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
+**Covalent docking of large libraries for the discovery of chemical probes**  
+N. London, Randy M. Miller, Shyam Krishnan, K. Uchida, J. Irwin, O. Eidam, L. Gibold, Peter Cimermancic, R. Bonnet, B. Shoichet, J. Taunton  
+*Nature Chemical Biology, September 2014*  
+[![](https://img.shields.io/badge/Nature_Chemical_Biology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232467/)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovalent-Docking-of-Large-Libraries-for-the-of-London-Miller%2F90211028d92ba511542f8b1ccdbdbc7720e6710a%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/webpage-8A2BE2)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
+![](http://covalent.docking.org/)
+![](https://img.shields.io/badge/based_on_noncovalent_method-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
+
+**Docking Covalent Inhibitors: A Parameter Free Approach To Pose Prediction and Scoring**  
+Kai Zhu, Kenneth W. Borrelli, Jeremy R. Greenwood, Tyler Day, Robert Abel, Ramy S. Farid, and Edward Harder  
+*Journal of Chemical Information and Modeling, June 2014*  
+[![](https://img.shields.io/badge/Chemical_Information_and_Modeling-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/ci500118s)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FDocking-Covalent-Inhibitors%253A-A-Parameter-Free-To-Zhu-Borrelli%2F2d9998235f41a9b9ef91cde87dc1bab05b194592%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/parameter_free-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
 **CovalentDock: Automated covalent docking with parameterized covalent linkage energy estimation and molecular geometry constraints**  
 Xuchang Ouyang, Shuo Zhou, C. Su, Z. Ge, Runtao Li, C. Kwoh  
