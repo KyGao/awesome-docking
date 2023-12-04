@@ -286,7 +286,7 @@ Mingjie Gao, Aurélien F. A. Moumbock, Ammar Qaseem, Qianqing Xu, S. Günther
 *Nucleic Acids Research, September 2021*  
 [![](https://img.shields.io/badge/Nucleic_Acids_Res.-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/50/D1/D445/6377397)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovPDB%253A-a-high-resolution-coverage-of-the-covalent-Gao-Moumbock%2Fa800cdd78504470a4b8c3a5fd31879a249686676%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
-[![](https://img.shields.io/badge/webpage-8A2BE2)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
+[![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Fragment-based covalent ligand discovery**  
@@ -301,7 +301,7 @@ N. London, Randy M. Miller, Shyam Krishnan, K. Uchida, J. Irwin, O. Eidam, L. Gi
 *Nature Chemical Biology, September 2014*  
 [![](https://img.shields.io/badge/Nature_Chemical_Biology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232467/)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovalent-Docking-of-Large-Libraries-for-the-of-London-Miller%2F90211028d92ba511542f8b1ccdbdbc7720e6710a%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
-[![](https://img.shields.io/badge/webpage-8A2BE2)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
+[![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://drug-discovery.vm.uni-freiburg.de/covpdb/)
 ![](http://covalent.docking.org/)
 ![](https://img.shields.io/badge/based_on_noncovalent_method-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
