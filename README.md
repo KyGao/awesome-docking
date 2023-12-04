@@ -27,7 +27,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   - [2022 -- Protein-Ligand](#2022----protein-ligand)
 - [Protein-Protein Docking](#protein-protein-docking)
   - [2023 -- Protein-Protein](#2023----protein-protein)
-  - [2022 -- Protein-Protein](#2022----protein-protein)
+  - [2021 -- Protein-Protein](#2021----protein-protein)
 - [Protein-Nucleic Acid Docking](#protein-nucleic-acid-docking)
   - [2023 -- Protein-Nucleic Acid](#2023----protein-nucleic-acid)
   - [2022 -- Protein-Nucleic Acid](#2022----protein-nucleic-acid)
@@ -216,9 +216,24 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 
 ## Protein-Protein Docking
 ### 2023 -- Protein-Protein 
+**Enhancing alphafold-multimer-based protein complex structure prediction with MULTICOM in CASP15**  
+Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin Cheng  
+*Communications Biology, November 2023*  
+[![](https://img.shields.io/badge/Communications_Biology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42003-023-05525-3)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F679d7389ab657a666d0149cfad9ce3b62ee50870%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)]([https://github.com/QizhiPei/FABind](https://github.com/BioinfoMachineLearning/MULTICOM3))
+![Stars](https://img.shields.io/github/stars/BioinfoMachineLearning/MULTICOM3?color=yellow&style=social)
+![](https://img.shields.io/badge/add--on_for_alphafold-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
-### 2022 -- Protein-Protein 
-
+### 2021 -- Protein-Protein 
+🔥**Protein complex prediction with AlphaFold-Multimer**  
+Richard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Zídek, Russ Bates, Sam Blackwell, Jason Yim, O. Ronneberger, S. Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, Rishub Jain, Ellen Clancy, Pushmeet Kohli, J. Jumper, D. Hassabis  
+*BioRxiv, October 2021*  
+[![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2556e820cba6bda75f6f31b76bc74d9e36d72cb3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/google-deepmind/alphafold)
+![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow&style=social)
+![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 ## Protein-Nucleic Acid Docking
 ### 2023 -- Protein-Nucleic Acid
 
