@@ -27,6 +27,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   - [2022 -- Protein-Ligand](#2022----protein-ligand)
 - [Protein-Protein Docking](#protein-protein-docking)
   - [2023 -- Protein-Protein](#2023----protein-protein)
+  - [2022 -- Protein-Protein](#2022----protein-protein)
   - [2021 -- Protein-Protein](#2021----protein-protein)
 - [Protein-Nucleic Acid Docking](#protein-nucleic-acid-docking)
   - [2023 -- Protein-Nucleic Acid](#2023----protein-nucleic-acid)
@@ -221,9 +222,53 @@ Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin
 *Communications Biology, November 2023*  
 [![](https://img.shields.io/badge/Communications_Biology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42003-023-05525-3)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F679d7389ab657a666d0149cfad9ce3b62ee50870%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
-[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)]([https://github.com/QizhiPei/FABind](https://github.com/BioinfoMachineLearning/MULTICOM3))
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/BioinfoMachineLearning/MULTICOM3)
 ![Stars](https://img.shields.io/github/stars/BioinfoMachineLearning/MULTICOM3?color=yellow&style=social)
 ![](https://img.shields.io/badge/add--on_for_alphafold-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
+**DockGame: Cooperative Games for Multimeric Rigid Protein Docking**  
+Vignesh Ram Somnath, Pier Giuseppe Sessa, Maria Rodriguez Martinez, Andreas Krause  
+*Preprint, October 2023*  
+[![](https://img.shields.io/badge/arXiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2310.06177)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a76e5107737cd3017a880f52b91ccade4504bf3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/vsomnath/dockgame)
+![Stars](https://img.shields.io/github/stars/vsomnath/dockgame?color=yellow&style=social)
+![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/multimeric_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)
+
+**Diffdock-pp: Rigid protein-protein docking with diffusion models**  
+Mohamed Amine Ketata, Cedrik Laue, Ruslan Mammadov, Hannes Stärk, Menghua Wu, Gabriele Corso, Céline Marquet, Regina Barzilay, Tommi S. Jaakkola  
+*ICLR workshop MLDD, March 2023*  
+[![](https://img.shields.io/badge/iclr_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=AM7WbQxuRS)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F345eb3195aac43eb5dcaacc0a7fd288be0fa4491%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ketatam/DiffDock-PP)
+![Stars](https://img.shields.io/github/stars/ketatam/DiffDock-PP?color=yellow&style=social)
+![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+**Deep Learning for Flexible and Site-Specific Protein Docking and Design**  
+Matthew McPartlon, Jinbo Xu  
+*BioRxiv, April 2023*  
+[![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.04.01.535079)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F663d7f9d2b4b8fcbb488fdb07a7458f734e62726%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+![](https://img.shields.io/badge/flexible_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/can_use_binding_site_information-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
+### 2022 -- Protein-Protein
+**Physics-informed deep neural network for rigid-body protein docking**  
+Freyr Sverrisson, Jean Feydy, Joshua Southern, Michael M Bronstein, Bruno E Correia  
+*ICLR workshop MLDD, April 2022*  
+[![](https://img.shields.io/badge/iclr_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=5yn5shS6wN)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59f1e3f333f85db9294658ccfe7f0a5f6a9458bd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
+**Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**  
+Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause  
+*ICLR, January 2022*  
+[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=GQjaI9mLet)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb190df7856f71856cbd98e1394c6513df279d53e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/octavian-ganea/equidock_public)
+![Stars](https://img.shields.io/github/stars/octavian-ganea/equidock_public?color=yellow&style=social)
+![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2021 -- Protein-Protein 
 🔥**Protein complex prediction with AlphaFold-Multimer**  
@@ -232,8 +277,9 @@ Richard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, 
 [![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2556e820cba6bda75f6f31b76bc74d9e36d72cb3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/google-deepmind/alphafold)
-![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow&style=social)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow&style=social) 
+![](https://img.shields.io/badge/flexible_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+
 ## Protein-Nucleic Acid Docking
 ### 2023 -- Protein-Nucleic Acid
 
