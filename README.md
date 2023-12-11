@@ -111,6 +111,11 @@ Xing Du, Yi Li, Yuan-Ling Xia, Shi-Meng Ai, Jing Liang, Peng Sang, Xing-Lai Ji, 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbfd1b11cf32a063a7deec39ec0d76232f365582a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 ### Protein-Protein
+**A survey on computational models for predicting protein–protein interactions**
+Lun Hu, Xiaojuan Wang, Yu-An Huang, Pengwei Hu, Zhu-Hong You
+*Briefings in Bioinformatics, September 2021*  
+[![](https://img.shields.io/badge/MolSci-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/22/5/bbab036/6159365)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F171b6d5c35ac3cda7a821bff4041f360bee20e54%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 ### Protein-Nucleic Acid 
 
