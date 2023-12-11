@@ -22,6 +22,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   - [Protein-Ligand](#protein-ligand)
   - [Protein-Protein](#protein-protein)
   - [Protein-Nucleic Acid](#protein-nucleic-acid)
+  - [Covalent](#covalent)
 - [Protein-Ligand Docking](#protein-ligand-docking)
   - [2023 -- Protein-Ligand](#2023----protein-ligand)
   - [2022 -- Protein-Ligand](#2022----protein-ligand)
@@ -31,9 +32,8 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   - [2021 -- Protein-Protein](#2021----protein-protein)
 - [Protein-Nucleic Acid Docking](#protein-nucleic-acid-docking)
   - [2023 -- Protein-Nucleic Acid](#2023----protein-nucleic-acid)
-  - [2022 -- Protein-Nucleic Acid](#2022----protein-nucleic-acid)
 - [Covalent Docking](#covalent-docking)
-- [Docking Tools](#docking-tools)
+- [Traditional Docking Tools](#traditional-docking-tools)
   - [Open-source and free access](#open-source-and-free-access)
   - [Commercial tools](#commercial-tool)
 
@@ -56,13 +56,13 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Survey
 ### Protein-Ligand 
 
-🔥**Machine-learning methods for ligand–protein molecular docking**  
+**Machine-learning methods for ligand–protein molecular docking**  
 Kevin Crampon, Alexis Giorkallos, Myrtille Deldossi, Stéphanie Baud, Luiz Angelo Steffenel   
 *Drug Discovery Today, January 2022*  
 [![](https://img.shields.io/badge/drugdis-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S1359644621003974)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F790e0a160fff355ce2fbb51beb4362dfcc58a830%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-🔥**A practical guide to large-scale docking**  
+**A practical guide to large-scale docking**  
 Brian J. Bender, Stefan Gahbauer, Andreas Luttens, Jiankun Lyu, Chase M. Webb, Reed M. Stein, Elissa A. Fink, Trent E. Balius, Jens Carlsson, John J. Irwin & Brian K. Shoichet    
 *Nature Protocols, December 2021*  
 [![](https://img.shields.io/badge/natureprotocols-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41596-021-00597-z)
@@ -80,7 +80,7 @@ Jiyu Fan, Ailing Fu, Le Zhang
 [![](https://img.shields.io/badge/QuantBio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s40484-019-0172-y)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3c8b953cccb19a0a1679c28f73b33df20b2fd10e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-🔥**Molecular Docking: Shifting Paradigms in Drug Discovery**  
+**Molecular Docking: Shifting Paradigms in Drug Discovery**  
 Luca Pinzi, Giulio Rastelli    
 *International Journal of Molecular Sciences, September 2019*  
 [![](https://img.shields.io/badge/ijms-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.mdpi.com/1422-0067/20/18/4331)
@@ -92,7 +92,7 @@ Chao Shen, Junjie Ding, Zhe Wang, Dongsheng Cao, Xiaoqin Ding, Tingjun Hou
 [![](https://img.shields.io/badge/ComMolSci-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1429)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9a297e83ca2bf1b3af089e51d85e927544ddfe04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-🔥**Software for molecular docking: a review**  
+**Software for molecular docking: a review**  
 Nataraj S. Pagadala, Khajamohiddin Syed, Jack Tuszynski   
 *Biophysical Reviews, January 2017*  
 [![](https://img.shields.io/badge/BioReview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s12551-016-0247-1)
@@ -110,12 +110,29 @@ Xing Du, Yi Li, Yuan-Ling Xia, Shi-Meng Ai, Jing Liang, Peng Sang, Xing-Lai Ji, 
 [![](https://img.shields.io/badge/MolSci-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.mdpi.com/1422-0067/17/2/144)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbfd1b11cf32a063a7deec39ec0d76232f365582a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-
-
 ### Protein-Protein
 
 ### Protein-Nucleic Acid 
 
+**Challenges in structural modeling of RNA-protein interactions**  
+Xudong Liu, Yingtian Duan, Xu Hong, Juan Xie, Shiyong Liu  
+*Current Opinion in Structural Biology, June 2023*  
+[![](https://img.shields.io/badge/StructuralBiology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/pii/S0959440X23000970)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb56c2784e1154c86541ee16b1aaeacfc6a46a321%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+**Protein–RNA interaction prediction with deep learning: structure matters**  
+Junkang Wei, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li  
+*Briefings in Bioinformatics， January 2022*  
+[![](https://img.shields.io/badge/BrefInBio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/23/1/bbab540/6470965)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd8eb3568107b21787751cd6c25776aacfa991979%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+### Covalent 
+
+**Docking covalent targets for drug discovery: stimulating the computer-aided drug design community of possible pitfalls and erroneous practices**  
+Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, Ayodeji Oluwadamilare Adeyemi, Temionu Oluwakemi Rita, Temitope Isaac Adelusi, Misbaudeen Abdul-Hammed, Oluwabamise Emmanuel Elegbeleye & Tope Tunji Odunitan  
+*Molecular Diversity, September 2022*  
+[![](https://img.shields.io/badge/Molecular_Diversity-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s11030-022-10523-4)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FDocking-covalent-targets-for-drug-discovery%253A-the-of-Oyedele-Ogunlana%2Ff347739ce3bbe75cf8bebe42aebbed12d4d9da6c%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
 
 ## Protein-Ligand Docking
 ### 2023 -- Protein-Ligand 
@@ -124,8 +141,7 @@ Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu
 *Preprint, December 2023*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.18574)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbedc29f7b553bd322df265e2c5a215f1dfd19b4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-![](https://img.shields.io/badge/known--pocket_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
 Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé  
@@ -134,7 +150,7 @@ Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3660911f955c532c186de3b52b03396c851c0aac%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/patrickbryant1/Umol)
 ![Stars](https://img.shields.io/github/stars/patrickbryant1/Umol?color=yellow&style=social)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**  
 Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane  
@@ -152,7 +168,7 @@ Qizhi Pei, Kaiyuan Gao, Lijun Wu, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fef5fceee2925cb8441bf1de100b67a33eeeef3a3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/QizhiPei/FABind)
 ![Stars](https://img.shields.io/github/stars/QizhiPei/FABind?color=yellow&style=social)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Efficient and accurate large library ligand docking with KarmaDock**  
 Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou  
@@ -161,14 +177,14 @@ Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Ka
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F190320029c58f7e3c1ce8fa9b908d3c88a27df2f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/schrojunzhang/KarmaDock)
 ![Stars](https://img.shields.io/github/stars/schrojunzhang/KarmaDock?color=yellow&style=social)
-![](https://img.shields.io/badge/known--pocket_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Do deep learning models really outperform traditional approaches in molecular docking?**  
 Yuejiang Yu, Shuqi Lu, Zhifeng Gao, Hang Zheng, Guolin Ke  
 *ICLR workshop MLDD, March 2023*  
 [![](https://img.shields.io/badge/iclr_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=JrtHZdbGtN)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fd91f8c48b273bb6c256d5ed4e250edd1b156fa%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 🔥**DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**   
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola  
@@ -177,7 +193,7 @@ Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f0d0b897d0e0963204719b80a8af43ca0d79d90%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/gcorso/DiffDock)
 ![Stars](https://img.shields.io/github/stars/gcorso/DiffDock?color=yellow&style=social)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Uni-Mol: A Universal 3D Molecular Representation Learning Framework**  
 Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin Ke  
@@ -186,14 +202,14 @@ Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Lin
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F11f42721f56f36a64638677ccde7784040829656%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol)
 ![Stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?color=yellow&style=social)
-![](https://img.shields.io/badge/known--pocket_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking**  
 Yangtian Zhang, Huiyu Cai, Chence Shi, Jian Tang  
 *ICLR, Feburary 2023*  
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=sO1QiAftQFv)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7cfc990d89875342528b760a4ffed9de47010b03%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2022 -- Protein-Ligand 
 
@@ -204,7 +220,7 @@ Wei Lu, Qifeng Wu, Jixian Zhang, Jiahua Rao, Chengtao Li, Shuangjia Zheng
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb886797dc34c91f186629403d7c7e2092fc25083%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luwei0917/TankBind)
 ![Stars](https://img.shields.io/github/stars/luwei0917/TankBind?color=yellow&style=social)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction**  
 Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaakkola  
@@ -213,7 +229,7 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5309f4bcb15e3dafbed759488551c1650b55dd81%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HannesStark/EquiBind)
 ![Stars](https://img.shields.io/github/stars/HannesStark/EquiBind?color=yellow&style=social)
-![](https://img.shields.io/badge/blind_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ## Protein-Protein Docking
 ### 2023 -- Protein-Protein 
@@ -221,7 +237,7 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin Cheng  
 *Communications Biology, November 2023*  
 [![](https://img.shields.io/badge/Communications_Biology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42003-023-05525-3)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F679d7389ab657a666d0149cfad9ce3b62ee50870%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F679d7389ab657a666d0149cfad9ce3b62ee50870%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/BioinfoMachineLearning/MULTICOM3)
 ![Stars](https://img.shields.io/github/stars/BioinfoMachineLearning/MULTICOM3?color=yellow&style=social)
 ![](https://img.shields.io/badge/add--on_for_alphafold-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
@@ -230,45 +246,45 @@ Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin
 Vignesh Ram Somnath, Pier Giuseppe Sessa, Maria Rodriguez Martinez, Andreas Krause  
 *Preprint, October 2023*  
 [![](https://img.shields.io/badge/arXiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2310.06177)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a76e5107737cd3017a880f52b91ccade4504bf3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0a76e5107737cd3017a880f52b91ccade4504bf3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/vsomnath/dockgame)
 ![Stars](https://img.shields.io/github/stars/vsomnath/dockgame?color=yellow&style=social)
-![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-![](https://img.shields.io/badge/multimeric_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)
+![](https://img.shields.io/badge/rigid-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/multimeric-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)
 
 **Diffdock-pp: Rigid protein-protein docking with diffusion models**  
 Mohamed Amine Ketata, Cedrik Laue, Ruslan Mammadov, Hannes Stärk, Menghua Wu, Gabriele Corso, Céline Marquet, Regina Barzilay, Tommi S. Jaakkola  
 *ICLR workshop MLDD, March 2023*  
 [![](https://img.shields.io/badge/iclr_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=AM7WbQxuRS)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F345eb3195aac43eb5dcaacc0a7fd288be0fa4491%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F345eb3195aac43eb5dcaacc0a7fd288be0fa4491%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ketatam/DiffDock-PP)
 ![Stars](https://img.shields.io/github/stars/ketatam/DiffDock-PP?color=yellow&style=social)
-![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/rigid-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Deep Learning for Flexible and Site-Specific Protein Docking and Design**  
 Matthew McPartlon, Jinbo Xu  
 *BioRxiv, April 2023*  
 [![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.04.01.535079)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F663d7f9d2b4b8fcbb488fdb07a7458f734e62726%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
-![](https://img.shields.io/badge/flexible_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-![](https://img.shields.io/badge/can_use_binding_site_information-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F663d7f9d2b4b8fcbb488fdb07a7458f734e62726%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
 ### 2022 -- Protein-Protein
 **Physics-informed deep neural network for rigid-body protein docking**  
 Freyr Sverrisson, Jean Feydy, Joshua Southern, Michael M Bronstein, Bruno E Correia  
 *ICLR workshop MLDD, April 2022*  
 [![](https://img.shields.io/badge/iclr_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=5yn5shS6wN)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59f1e3f333f85db9294658ccfe7f0a5f6a9458bd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
-![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59f1e3f333f85db9294658ccfe7f0a5f6a9458bd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/rigid-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
 **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**  
 Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause  
 *ICLR, January 2022*  
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=GQjaI9mLet)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb190df7856f71856cbd98e1394c6513df279d53e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936) 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb190df7856f71856cbd98e1394c6513df279d53e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/octavian-ganea/equidock_public)
 ![Stars](https://img.shields.io/github/stars/octavian-ganea/equidock_public?color=yellow&style=social)
-![](https://img.shields.io/badge/rigid_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/rigid-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2021 -- Protein-Protein 
 🔥**Protein complex prediction with AlphaFold-Multimer**  
@@ -278,12 +294,12 @@ Richard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2556e820cba6bda75f6f31b76bc74d9e36d72cb3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/google-deepmind/alphafold)
 ![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow&style=social) 
-![](https://img.shields.io/badge/flexible_docking-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
 ## Protein-Nucleic Acid Docking
 ### 2023 -- Protein-Nucleic Acid
 
-**Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNA**  
+🔥**Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNA**  
 Minkyung Baek, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, Frank DiMaio  
 *Nature Methods, November 2023*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-023-02086-5)
@@ -297,7 +313,7 @@ Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, Debswapna 
 [![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/search/Protein-Nucleic%252BAcid%252B)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Bhattacharya-Lab/EquiPNAS)
 ![Stars](https://img.shields.io/github/stars/Bhattacharya-Lab/EquiPNAS?color=yellow&style=social)
-![](https://img.shields.io/badge/protein_language_model-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/language_model-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Evaluating native-like structures of RNA-protein complexes through the deep learning method**  
 Chengwei Zeng, Yiren Jian, Soroush Vosoughi, Chen Zeng, Yunjie Zhao  
@@ -308,32 +324,8 @@ Chengwei Zeng, Yiren Jian, Soroush Vosoughi, Chen Zeng, Yunjie Zhao
 ![Stars](https://img.shields.io/github/stars/Zhaolab-GitHub/DRPScore_v1.0?color=yellow&style=social)
 ![](https://img.shields.io/badge/evaluation-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
-**Challenges in structural modeling of RNA-protein interactions**  
-Xudong Liu, Yingtian Duan, Xu Hong, Juan Xie, Shiyong Liu  
-*Current Opinion in Structural Biology, June 2023*  
-[![](https://img.shields.io/badge/StructuralBiology-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/pii/S0959440X23000970)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb56c2784e1154c86541ee16b1aaeacfc6a46a321%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/review-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-
-### 2022 -- Protein-Nucleic Acid
-
-**Protein–RNA interaction prediction with deep learning: structure matters**  
-Junkang Wei, Siyuan Chen, Licheng Zong, Xin Gao, Yu Li  
-*Briefings in Bioinformatics， January 2022*  
-[![](https://img.shields.io/badge/BrefInBio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/23/1/bbab540/6470965)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd8eb3568107b21787751cd6c25776aacfa991979%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/review-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-
 
 ## Covalent Docking
-
-**Docking covalent targets for drug discovery: stimulating the computer-aided drug design community of possible pitfalls and erroneous practices**  
-A. Oyedele, A. Ogunlana, I. Boyenle, A. Adeyemi, Temionu Oluwakemi Rita, Temitope Isaac Adelusi, M. Abdul-Hammed, Oluwabamise Emmanuel Elegbeleye, Tope T. Odunitan   
-*Molecular Diversity, September 2022*  
-[![](https://img.shields.io/badge/Molecular_Diversity-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s11030-022-10523-4)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FDocking-covalent-targets-for-drug-discovery%253A-the-of-Oyedele-Ogunlana%2Ff347739ce3bbe75cf8bebe42aebbed12d4d9da6c%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/survey-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
-
 
 **Cov_DOX: A Method for Structure Prediction of Covalent Protein–Ligand Bindings**  
 Lin Wei, Yaru Chen, Jiaqi Liu, Li Rao, Yanliang Ren, Xin Xu, Jian Wan  
@@ -366,7 +358,6 @@ N. London, Randy M. Miller, Shyam Krishnan, K. Uchida, J. Irwin, O. Eidam, L. Gi
 ![](http://covalent.docking.org/)
 ![](https://img.shields.io/badge/based_on_noncovalent_method-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
 
-
 **Docking Covalent Inhibitors: A Parameter Free Approach To Pose Prediction and Scoring**  
 Kai Zhu, Kenneth W. Borrelli, Jeremy R. Greenwood, Tyler Day, Robert Abel, Ramy S. Farid, and Edward Harder  
 *Journal of Chemical Information and Modeling, June 2014*  
@@ -379,21 +370,37 @@ Xuchang Ouyang, Shuo Zhou, C. Su, Z. Ge, Runtao Li, C. Kwoh
 *Journal of Computational Chemistry, February 2013*  
 [![](https://img.shields.io/badge/Computational_Chemistry-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://onlinelibrary.wiley.com/doi/10.1002/jcc.23136)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCovalentDock%253A-Automated-covalent-docking-with-and-Ouyang-Zhou%2F13e5c154c51d9d9950b8eca7668d4e83b957c1ae%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=googlecloud&labelColor=555555)](https://code.google.com/archive/p/covalentdock/)
+[![](https://img.shields.io/badge/project-38C26D?style=flat&logo=googlecloud&labelColor=555555)](https://code.google.com/archive/p/covalentdock/)
 ![](https://img.shields.io/badge/Autodock_based-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
-## Docking Tools
+## Traditional Docking Tools
 ### Open-source and free access
 
-🔥[Smina](https://sourceforge.net/projects/smina/)   
-🔥[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ![](https://img.shields.io/badge/software-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)   
-🔥[AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ![](https://img.shields.io/badge/software-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)   
-[AutoDockTools](https://ccsb.scripps.edu/mgltools/) ![](https://img.shields.io/badge/interactive-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
-[AutoDock](https://ccsb.scripps.edu/projects/docking/) [![](https://img.shields.io/badge/NatureProtocols-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/50/D1/D445/6377397)   
-[SwissDock](http://www.swissdock.ch/) [![](https://img.shields.io/badge/Nucleic_Acids_Res.-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/39/suppl_2/W270/2506492?login=true)   
-[rDock](https://rdock.github.io/) [![](https://img.shields.io/badge/PlosCompBio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003571) 
+- **Smina**  
+  [![](https://img.shields.io/badge/source_forge-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://sourceforge.net/projects/smina)
+- 🔥**the AutoDock Suite**  
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases)
+  ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow&style=social)
+- **AutoDock-GPU**  
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU)
+  ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-GPU?color=yellow&style=social)
+- **MGLTools software suite**  
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://ccsb.scripps.edu/mgltools/)
+  ![](https://img.shields.io/badge/free--access-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+- **SwissDock**    
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](http://www.swissdock.ch/)
+  ![](https://img.shields.io/badge/free--access-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555)  
+- **rDock**  
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://rdock.github.io)
+  [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/CBDD/rDock)
+  ![Stars](https://img.shields.io/github/stars/CBDD/rDock?color=yellow&style=social)
 
 ### Commercial tool
-🔥[GOLD](https://www.ch.cam.ac.uk/computing/software/gold-suite) [![](https://img.shields.io/badge/J.Mol.Bio-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S0022283696908979?via%3Dihub)  
-🔥[Glide](https://www.schrodinger.com/products/glide) [![](https://img.shields.io/badge/J.Med.Chem.-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/jm030644s)  
-[MOE-Dock](https://www.computabio.com/molecular-docking-service.html)  
+
+- **GOLD Suite**  
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://www.ch.cam.ac.uk/computing/software/gold-suite)
+- **GLIDE**  
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://www.schrodinger.com/products/glide)
+- **MOE-Dock**  
+  [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://www.computabio.com/molecular-docking-service.html)
