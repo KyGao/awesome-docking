@@ -378,7 +378,7 @@ Xuchang Ouyang, Shuo Zhou, C. Su, Z. Ge, Runtao Li, C. Kwoh
 
 - **Smina**  
   [![](https://img.shields.io/badge/source_forge-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://sourceforge.net/projects/smina)
-- 🔥**the AutoDock Suite**  
+- 🔥**AutoDock Suite**  
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
   [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases)
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow&style=social)
