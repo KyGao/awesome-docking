@@ -112,6 +112,24 @@ Xing Du, Yi Li, Yuan-Ling Xia, Shi-Meng Ai, Jing Liang, Peng Sang, Xing-Lai Ji, 
 
 ### Protein-Protein
 
+**Protein–Protein Docking: Past, Present, and Future**  
+Sharon Sunny, PB Jayaraj  
+*The protein journal, February 2022*  
+[![](https://img.shields.io/badge/PROTEINJ-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s10930-021-10031-8)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F60d7599aef518716e447853f0fa0cdafa774eabb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+**A survey on computational models for predicting protein–protein interactions**   
+Lun Hu, Xiaojuan Wang, Yu-An Huang, Pengwei Hu, Zhu-Hong You  
+*Briefings in Bioinformatics, September 2021*  
+[![](https://img.shields.io/badge/BriefBioinform-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/22/5/bbab036/6159365)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F171b6d5c35ac3cda7a821bff4041f360bee20e54%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+**What method to use for protein–protein docking?**  
+Kathryn Porter, Israel Desta, Dima Kozakov, Sandor Vajda  
+*Current Opinion in Structural Biology, April 2019*   
+[![](https://img.shields.io/badge/CURROPINSTRUCBIOL-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S0959440X18300691)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5098ef6ab4fbf1b5a7b180fd91cddac231abfd85%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
 ### Protein-Nucleic Acid 
 
 **Challenges in structural modeling of RNA-protein interactions**  
