@@ -161,6 +161,14 @@ Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbedc29f7b553bd322df265e2c5a215f1dfd19b4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**DynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**  
+Wei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia Zheng  
+*NeurIPS workshop GenBio, December 2023.*  
+[![](https://img.shields.io/badge/neurips_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://openreview.net/forum?id=bh8dw3guwY](https://openreview.net/forum?id=bh8dw3guwY))
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luwei0917/DynamicBind)
+![Stars](https://img.shields.io/github/stars/luwei0917/DynamicBind?color=yellow&style=social)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
 Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé  
 *Preprint, November 2023*  
