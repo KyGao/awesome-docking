@@ -258,6 +258,14 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ## Protein-Protein Docking
+### 2024 -- Protein-Protein
+**Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data**  
+Wei Zheng, Qiqige Wuyun, Yang Li, Chengxin Zhang, P. Lydia Freddolino, Yang Zhang  
+*Nature Methods, January 2024*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-023-02130-4)
+[![](https://img.shields.io/badge/deepmsa2-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://zhanggroup.org/DeepMSA)
+[![](https://img.shields.io/badge/dmfold-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://zhanggroup.org/DMFold)
+
 ### 2023 -- Protein-Protein 
 **Enhancing alphafold-multimer-based protein complex structure prediction with MULTICOM in CASP15**  
 Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin Cheng  
