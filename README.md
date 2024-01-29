@@ -98,7 +98,7 @@ Nataraj S. Pagadala, Khajamohiddin Syed, Jack Tuszynski
 [![](https://img.shields.io/badge/BioReview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1007/s12551-016-0247-1)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd6e2fde7c80146a5f42bbe4e3638951e796ce0a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-**Dynamic Docking: A Paradigm Shift in Computational Drug Discoveryg**  
+**Dynamic Docking: A Paradigm Shift in Computational Drug Discovery**  
 Gioia, Dario, Martina Bertazzo, Maurizio Recanatini, Matteo Masetti, Andrea Cavalli   
 *Molecules, November 2017*  
 [![](https://img.shields.io/badge/Molecules-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.mdpi.com/1420-3049/22/11/2029)
