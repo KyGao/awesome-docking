@@ -153,20 +153,22 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FURL%3Ahttps%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FDocking-covalent-targets-for-drug-discovery%253A-the-of-Oyedele-Ogunlana%2Ff347739ce3bbe75cf8bebe42aebbed12d4d9da6c%2F%3Ffields%3DcitationCount&query=citationCount&style=social&label=Citation&labelColor=555555&color=ED8936)
 
 ## Protein-Ligand Docking
+
+### 2024 -- Protein-Ligand
+**DynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**  
+Wei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia Zheng  
+*Nature Communications, February 2024*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.nature.com/articles/s41467-024-45461-2](https://www.nature.com/articles/s41467-024-45461-2))
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luwei0917/DynamicBind)
+![Stars](https://img.shields.io/github/stars/luwei0917/DynamicBind?color=yellow&style=social)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 ### 2023 -- Protein-Ligand 
 **Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
 Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu  
 *Preprint, December 2023*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.18574)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbedc29f7b553bd322df265e2c5a215f1dfd19b4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-
-**DynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**  
-Wei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia Zheng  
-*NeurIPS workshop GenBio, December 2023.*  
-[![](https://img.shields.io/badge/neurips_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://openreview.net/forum?id=bh8dw3guwY](https://openreview.net/forum?id=bh8dw3guwY))
-[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luwei0917/DynamicBind)
-![Stars](https://img.shields.io/github/stars/luwei0917/DynamicBind?color=yellow&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
