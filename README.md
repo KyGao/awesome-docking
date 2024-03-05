@@ -269,8 +269,8 @@ Wei Zheng, Qiqige Wuyun, Yang Li, Chengxin Zhang, P. Lydia Freddolino, Yang Zhan
 [![](https://img.shields.io/badge/dmfold-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)](https://zhanggroup.org/DMFold)
 
 **Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model**
-Huaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi Yan
-*ICLR, 2024*
+Huaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi Yan  
+*ICLR, 2024*  
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=GQjaI9mLet)
 
 ### 2023 -- Protein-Protein 
