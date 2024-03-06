@@ -271,7 +271,12 @@ Wei Zheng, Qiqige Wuyun, Yang Li, Chengxin Zhang, P. Lydia Freddolino, Yang Zhan
 **Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model**  
 Huaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi Yan  
 *ICLR, 2024*  
-[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=qg2boc2AwU)
+[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=qg2boc2AwU)  
+
+**Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction**  
+Ziyang Yu, Wenbing Huang, Yang Liu  
+*ICLR, 2024*  
+[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=zgQ0PHeGnL)  
 
 ### 2023 -- Protein-Protein 
 **Enhancing alphafold-multimer-based protein complex structure prediction with MULTICOM in CASP15**  
