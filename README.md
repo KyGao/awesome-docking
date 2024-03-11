@@ -49,16 +49,18 @@ Google DeepMind AlphaFold team and Isomorphic Labs team
     
 🔥**Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**  
 Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David Baker  
-*Preprint, October 2023*  
-[![](https://img.shields.io/badge/bioxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.10.09.561603)
+*Science, March 2024*  
+[![](https://img.shields.io/badge/science-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.science.org/doi/10.1126/science.adl2528](https://www.science.org/doi/10.1126/science.adl2528))
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbbd97deb6e06fe24c5f20fa85e1f276e3065f99f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
+![Stars](https://img.shields.io/github/stars/baker-laboratory/RoseTTAFold-All-Atom?color=yellow&style=social)
 
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
 
 **State-specific protein–ligand complex structure prediction with a multiscale deep generative model**  
-Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller II, Animashree Anandkumar
+Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller II, Animashree Anandkumar  
 *Nature Machine Intelligence, February 2024*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.nature.com/articles/s42256-024-00792-z](https://www.nature.com/articles/s42256-024-00792-z))
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc9561b15c25ca781ccf1a384e978e28341bac0e4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -77,10 +79,14 @@ Wei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia Zheng
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
-**The Discovery of Binding Modes Requires Rethinking Docking Generalization**   
+**Deep confident steps to new pockets: strategies for docking generalization**   
 Gabriele Corso, Arthur Deng, Nicholas Polizzi, Regina Barzilay, Tommi S. Jaakkola   
-*ICLR, 2024*   
+*ICLR, Feburary 2024*   
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=UfBIxpTK10) 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa2af79d2c6a75919d586590487cc3b39b42a94c2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/LDeng0205/confidence-bootstrapping)
+![Stars](https://img.shields.io/github/stars/LDeng0205/confidence-bootstrapping?color=yellow&style=social)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2023 -- Protein-Ligand 
 **Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
