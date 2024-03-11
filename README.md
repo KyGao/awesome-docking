@@ -155,13 +155,26 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+
+**State-specific protein–ligand complex structure prediction with a multiscale deep generative model**  
+Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller II, Animashree Anandkumar
+*Nature Machine Intelligence, February 2024*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.nature.com/articles/s42256-024-00792-z](https://www.nature.com/articles/s42256-024-00792-z))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc9561b15c25ca781ccf1a384e978e28341bac0e4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zrqiao/NeuralPLexer)
+![Stars](https://img.shields.io/github/stars/zrqiao/NeuralPLexer?color=yellow&style=social)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **DynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**  
 Wei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia Zheng  
 *Nature Communications, February 2024*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.nature.com/articles/s41467-024-45461-2](https://www.nature.com/articles/s41467-024-45461-2))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51894ffcf778630e7b021bc473d13d028a3b9158%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luwei0917/DynamicBind)
 ![Stars](https://img.shields.io/github/stars/luwei0917/DynamicBind?color=yellow&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **The Discovery of Binding Modes Requires Rethinking Docking Generalization**   
 Gabriele Corso, Arthur Deng, Nicholas Polizzi, Regina Barzilay, Tommi S. Jaakkola   
