@@ -89,7 +89,7 @@ Gabriele Corso, Arthur Deng, Nicholas Polizzi, Regina Barzilay, Tommi S. Jaakkol
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2023 -- Protein-Ligand 
-**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
+**(DeltaDock) Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
 Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu  
 *Preprint, December 2023*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.18574)
