@@ -59,6 +59,15 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 
 ### 2024 -- Protein-Ligand
 
+**Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge**  
+Yufei Huang, Odin Zhang, Lirong Wu, Cheng Tan, Haitao Lin, Zhangyang Gao, Siyuan Li, Stan. Z. Li  
+*Arxiv, February 2024*  
+[![](https://img.shields.io/badge/arxive-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/pdf/2402.11459.pdf](https://arxiv.org/pdf/2402.11459.pdf))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F68981c9aba4c06176f3c062b94c3e6861371bdb6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
 **State-specific protein–ligand complex structure prediction with a multiscale deep generative model**  
 Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller II, Animashree Anandkumar  
 *Nature Machine Intelligence, February 2024*  
