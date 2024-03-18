@@ -122,6 +122,16 @@ Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbedc29f7b553bd322df265e2c5a215f1dfd19b4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**DiffBindFR: An SE(3) Equivariant Network for Flexible Protein-Ligand Docking**  
+Jintao Zhu, Zhonghui Gu, Jianfeng Pei, Luhua Lai  
+*Preprint, November 2023*
+[![](https://img.shields.io/badge/bioxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.15201.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F04911aa5c3b5d6d07507a0079ebbe6c504a462ae%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HBioquant/DiffBindFR)
+![Stars](https://img.shields.io/github/stars/HBioquant/DiffBindFR?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **Structure prediction of protein-ligand complexes from sequence information with Umol**  
 Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé  
 *Preprint, November 2023*  
@@ -140,7 +150,6 @@ Tiejun Dong, Ziduo Yang, Jun Zhou, and Calvin Yu-Chian Chen
 ![Stars](https://img.shields.io/github/stars/tiejundong/FlexPose?color=yellow&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
-
 
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**  
 Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane  
