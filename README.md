@@ -124,6 +124,17 @@ Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank Noé
 ![Stars](https://img.shields.io/github/stars/patrickbryant1/Umol?color=yellow&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**(FlexPose) Equivariant Flexible Modeling of the Protein–Ligand Binding Pose with Geometric Deep Learning**  
+Tiejun Dong, Ziduo Yang, Jun Zhou, and Calvin Yu-Chian Chen  
+*JCTC, November 2023*  
+[![](https://img.shields.io/badge/jctc-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00273)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff2633ad706a8537bd7d8d89561d4bbad71373380%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/tiejundong/FlexPose)
+![Stars](https://img.shields.io/github/stars/tiejundong/FlexPose?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**  
 Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane  
 *Preprint, October 2023.*  
