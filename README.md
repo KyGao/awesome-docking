@@ -212,7 +212,15 @@ Ziyang Yu, Wenbing Huang, Yang Liu
 *ICLR, 2024*  
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=zgQ0PHeGnL)  
 
-### 2023 -- Protein-Protein 
+### 2023 -- Protein-Protein
+**(GeoDock) Flexible protein–protein docking with a multitrack iterativetransformer**  
+Lee-Shin Chu, Jeffrey A. Ruffolo, Ameya Harmalkar, Jeffrey J. Gray  
+*Protein Science, December 2023*  
+[![](https://img.shields.io/badge/prosci-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pro.4862)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1c8af104ce6af12952581007aa19baa63f663a8f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Graylab/GeoDock)
+![Stars](https://img.shields.io/github/stars/Graylab/GeoDock?color=yellow&style=social)
+
 **Enhancing alphafold-multimer-based protein complex structure prediction with MULTICOM in CASP15**  
 Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin Cheng  
 *Communications Biology, November 2023*  
