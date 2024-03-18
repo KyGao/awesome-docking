@@ -58,15 +58,23 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
-
 **Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge**  
 Yufei Huang, Odin Zhang, Lirong Wu, Cheng Tan, Haitao Lin, Zhangyang Gao, Siyuan Li, Stan. Z. Li  
-*Arxiv, February 2024*  
-[![](https://img.shields.io/badge/arxive-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.11459.pdf)
+*Preprint, February 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.11459.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F68981c9aba4c06176f3c062b94c3e6861371bdb6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking**  
+Runze Zhang, Xinyu Jiang, Duanhua Cao, Jie Yu, Mingan Chen, Zhehuan Fan, Xiangtai Kong, Jiacheng Xiong, Zimei Zhang, Wei Zhang, Shengkun Ni, Yitian Wang, Shenghua Gao, Mingyue Zheng  
+*Preprint, February 2024*  
+[![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F770f53f09f541b96d0e3693ae4066b897ef9d9f5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Zhang-Runze/PackDock)
+![Stars](https://img.shields.io/github/stars/Zhang-Runze/PackDock?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 **State-specific protein–ligand complex structure prediction with a multiscale deep generative model**  
 Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller II, Animashree Anandkumar  
@@ -227,7 +235,7 @@ Ziyang Yu, Wenbing Huang, Yang Liu
 ![](https://img.shields.io/badge/rigid-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2023 -- Protein-Protein
-**(GeoDock) Flexible protein–protein docking with a multitrack iterativetransformer**  
+**(GeoDock) Flexible protein–protein docking with a multitrack iterative transformer**  
 Lee-Shin Chu, Jeffrey A. Ruffolo, Ameya Harmalkar, Jeffrey J. Gray  
 *Protein Science, December 2023*  
 [![](https://img.shields.io/badge/prosci-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pro.4862)
