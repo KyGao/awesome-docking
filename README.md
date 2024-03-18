@@ -141,6 +141,16 @@ Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Ka
 ![Stars](https://img.shields.io/github/stars/schrojunzhang/KarmaDock?color=yellow&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**(EDM-Dock) Deep Learning Model for Efficient Protein–Ligand Docking with Implicit Side-Chain Flexibility**  
+Matthew R. Masters, Amr H. Mahmoud, Yao Wei, and Markus A. Lill  
+*JCIM, March 2023*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1038/s43588-023-00511-5)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb29d66e1c466bd248232eee0d987118b258fb18e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MatthewMasters/EDM-Dock)
+![Stars](https://img.shields.io/github/stars/MatthewMasters/EDM-Dock?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **Do deep learning models really outperform traditional approaches in molecular docking?**  
 Yuejiang Yu, Shuqi Lu, Zhifeng Gao, Hang Zheng, Guolin Ke  
 *ICLR workshop MLDD, March 2023*  
