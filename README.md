@@ -107,6 +107,13 @@ Gabriele Corso, Arthur Deng, Nicholas Polizzi, Regina Barzilay, Tommi S. Jaakkol
 ![Stars](https://img.shields.io/github/stars/LDeng0205/confidence-bootstrapping?color=yellow&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**(NeuralMD) A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics**  
+Shengchao Liu, Weitao Du, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Nakul Rampal, Omar Yaghi, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer Chayes  
+*Preprint, January 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.15122.pdf) 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0215dd9f346534bf4c4247220501d7ab7d7715c6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/dynamics-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 ### 2023 -- Protein-Ligand 
 **(DeltaDock) Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
 Jiaxian Yan, Zaixi Zhang, Kai Zhang, Qi Liu  
