@@ -220,7 +220,11 @@ Huaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi Yan
 **Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction**  
 Ziyang Yu, Wenbing Huang, Yang Liu  
 *ICLR, 2024*  
-[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=zgQ0PHeGnL)  
+[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=zgQ0PHeGnL)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7868daf3774809e652f83914fb7b44e36a78d7f2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/yaledeus/ElliDock)
+![Stars](https://img.shields.io/github/stars/yaledeus/ElliDock?color=yellow&style=social)
+![](https://img.shields.io/badge/rigid-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 ### 2023 -- Protein-Protein
 **(GeoDock) Flexible protein–protein docking with a multitrack iterativetransformer**  
