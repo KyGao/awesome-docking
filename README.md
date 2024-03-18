@@ -19,9 +19,11 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 
 - [Versatile Docking](#versatile-docking)
 - [Protein-Ligand Docking](#protein-ligand-docking)
+  - [2024 -- Protein-Ligand](#2024----protein-ligand)
   - [2023 -- Protein-Ligand](#2023----protein-ligand)
   - [2022 -- Protein-Ligand](#2022----protein-ligand)
 - [Protein-Protein Docking](#protein-protein-docking)
+  - [2024 -- Protein-Protein](#2024----protein-protein)
   - [2023 -- Protein-Protein](#2023----protein-protein)
   - [2022 -- Protein-Protein](#2022----protein-protein)
   - [2021 -- Protein-Protein](#2021----protein-protein)
