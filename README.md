@@ -60,6 +60,15 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation**  
+Kaiyuan Gao, Qizhi Pei, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu  
+*Preprint, April 2024*  
+[![](https://img.shields.io/badge/arXiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.20261.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6594ec85ba41682c2ae0b2c205a92ec372f0ec4b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/QizhiPei/FABind)
+![Stars](https://img.shields.io/github/stars/QizhiPei/FABind?color=yellow&style=social)
+![](https://img.shields.io/badge/blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **ArtiDock: fast and accurate machine learning approach to protein-ligand docking based on multimodal data augmentation**  
 Taras Voitsitskyi, Semen Yesylevskyy, Volodymyr Bdzhola, Roman Stratiichuk, Ihor Koleiev, Zakhar Ostrovsky, Volodymyr Vozniak, Ivan Khropachov, Pavlo Henitsoi, Leonid Popryho, Roman Zhytar, Alan Nafiiev, Serhii Starosyla  
 *Preprint, March 2024*  
