@@ -60,6 +60,11 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**Interformer: An Interaction-Aware Model for Protein-Ligand Docking and Affinity Prediction**  
+Houtim Lai, Longyue Wang, Ruiyuan Qian, Geyan Ye, Juhong Huang, Fandi Wu, Fang Wu, Xiangxiang Zeng, Wei Liu  
+*Preprint, April 2024*  
+[![](https://img.shields.io/badge/under_review-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.researchsquare.com/article/rs-3995849/v1)
+
 **FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation**  
 Kaiyuan Gao, Qizhi Pei, Jinhua Zhu, Tao Qin, Kun He, Lijun Wu  
 *Preprint, April 2024*  
