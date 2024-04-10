@@ -60,6 +60,15 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**CarsiDock: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training**  
+Heng Cai, Chao Shen, Tianye Jian, Xujun Zhang, Tong Chen, Xiaoqi Han, Zhuo Yang, Wei Dang, Chang-Yu Hsieh, Yu Kang, Peichen Pan, Xiangyang Ji, Jianfei Song, Tingjun Hou and Yafeng Deng  
+*Chemical Science, December 2023*  
+[![](https://img.shields.io/badge/chemical_science-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc05552c)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F12f90a54c1f94981ba4f129be8b220b4b8282a6b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/carbonsilicon-ai/CarsiDock)
+![Stars](https://img.shields.io/github/stars/carbonsilicon-ai/CarsiDock?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **GeoDirDock: Guiding Docking Along Geodesic Paths**  
 Raúl Miñán, Javier Gallardo, Álvaro Ciudad, Alexis Molina  
 *Preprint, April 2024*  
