@@ -60,6 +60,11 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**GeoDirDock: Guiding Docking Along Geodesic Paths**  
+Raúl Miñán, Javier Gallardo, Álvaro Ciudad, Alexis Molina  
+*Preprint, April 2024*  
+[![](https://img.shields.io/badge/under_review-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.06481.pdf)
+
 **Interformer: An Interaction-Aware Model for Protein-Ligand Docking and Affinity Prediction**  
 Houtim Lai, Longyue Wang, Ruiyuan Qian, Geyan Ye, Juhong Huang, Fandi Wu, Fang Wu, Xiangxiang Zeng, Wei Liu  
 *Preprint, April 2024*  
