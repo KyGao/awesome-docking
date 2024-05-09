@@ -9,7 +9,7 @@
   <img src="resources/cover.png" width="400">
 </p>
 
-Alphafold-latest🔥 and RFAA🔥 have revolutionize the scope of docking. Previous work was focused on modeling different components separately, but these two studies have used a single model to simultaneously model all biomolecular interactions. Here is a curated paper list containing all kinds of deep learning-based docking, covering **Protein-Ligand Docking**, **Protein-Protein Docking**, **Protein-Nucleic Acid Docking**, and **Covalent Docking**. Additionally, we refer to works capable of handling various types of docking scenarios simultaneously as '**Versatile Docking**'. Future work will encompass tools, datasets, scoring function design, and other relvant topics. Within each category, entries are listed in reverse chronological order, with the most recent first. If a paper has multiple versions, we reference the initial publication date. The following badges are used for according purpose: 
+**AlphaFold-latest**🔥  (with newly updated **AlphaFold3**🔥 )and **RFAA**🔥 have revolutionize the scope of docking. Previous work was focused on modeling different components separately, but these two studies have used a single model to simultaneously model all biomolecular interactions. Here is a curated paper list containing all kinds of deep learning-based docking, covering **Protein-Ligand Docking**, **Protein-Protein Docking**, **Protein-Nucleic Acid Docking**, and **Covalent Docking**. Additionally, we refer to works capable of handling various types of docking scenarios simultaneously as '**Versatile Docking**'. Future work will encompass tools, datasets, scoring function design, and other relvant topics. Within each category, entries are listed in reverse chronological order, with the most recent first. If a paper has multiple versions, we reference the initial publication date. The following badges are used for according purpose: 
 
 ![](https://img.shields.io/badge/paper-5291C8?style=flat&logo=Read.cv&labelColor=555555) ![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555&logocolor=555555) ![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)  ![](https://img.shields.io/badge/tag-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
@@ -42,6 +42,13 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 ---
 
 ## Versatile Docking
+
+🔥**Accurate structure prediction of biomolecular interactions with AlphaFold 3**   
+Josh Abramson, Jonas Adler, Jack Dunger, Richard Evans, Tim Green, Alexander Pritzel, Olaf Ronneberger, Lindsay Willmore, Andrew J. Ballard, Joshua Bambrick, Sebastian W. Bodenstein, David A. Evans, Chia-Chun Hung, Michael O’Neill, David Reiman, Kathryn Tunyasuvunakool, Zachary Wu, Akvilė Žemgulytė, Eirini Arvaniti, Charles Beattie, Ottavia Bertolli, Alex Bridgland, Alexey Cherepanov, Miles Congreve, Alexander I. Cowen-Rivers, Andrew Cowie, Michael Figurnov, Fabian B. Fuchs, Hannah Gladman, Rishub Jain, Yousuf A. Khan, Caroline M. R. Low, Kuba Perlin, Anna Potapenko, Pascal Savy, Sukhdeep Singh, Adrian Stecula, Ashok Thillaisundaram, Catherine Tong, Sergei Yakneen, Ellen D. Zhong, Michal Zielinski, Augustin Žídek, Victor Bapst, Pushmeet Kohli, Max Jaderberg, Demis Hassabis & John M. Jumper  
+*Nature, May 2024*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41586-024-07487-w)
+[![](https://img.shields.io/badge/news-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+[![](https://img.shields.io/badge/server-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://golgi.sandbox.google.com/)
 
 🔥**A glimpse of the next generation of AlphaFold**   
 Google DeepMind AlphaFold team and Isomorphic Labs team  
