@@ -285,6 +285,13 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 
 ## Protein-Protein Docking
 ### 2024 -- Protein-Protein
+**Deep Reinforcement Learning for Modelling Protein Complexes**  
+Ziqi Gao, Tao Feng, Jiaxuan You, Chenyi Zi, Yan Zhou, Chen Zhang, Jia Li  
+*ICLR, March 2024*  
+[![](https://img.shields.io/badge/iclr-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.02299)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5301ef92d5d9d5f2ae0771db8e5b1ea66ea96788%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![](https://img.shields.io/badge/assembly-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data**  
 Wei Zheng, Qiqige Wuyun, Yang Li, Chengxin Zhang, P. Lydia Freddolino, Yang Zhang  
 *Nature Methods, January 2024*  
