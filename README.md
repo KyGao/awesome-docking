@@ -76,6 +76,17 @@ Alex Morehead, Nabin Giri, Jian Liu, Jianlin Cheng
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 
+**Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction**
+Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction
+*Preprint, May 2024*  
+[![](https://img.shields.io/badge/arXiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.11769)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd03bcd5003d5f35d536f9e9b7ae5c4194de93295%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol)
+![Stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
+
 **CarsiDock: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training**  
 Heng Cai, Chao Shen, Tianye Jian, Xujun Zhang, Tong Chen, Xiaoqi Han, Zhuo Yang, Wei Dang, Chang-Yu Hsieh, Yu Kang, Peichen Pan, Xiangyang Ji, Jianfei Song, Tingjun Hou and Yafeng Deng  
 *Chemical Science, December 2023*  
