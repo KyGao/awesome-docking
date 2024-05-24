@@ -67,6 +67,15 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**Deep Learning for Protein-Ligand Docking: Are We There Yet?**  
+Alex Morehead, Nabin Giri, Jian Liu, Jianlin Cheng  
+*Preprint, May 2024*  
+[![](https://img.shields.io/badge/arXiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.14108)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/BioinfoMachineLearning/PoseBench)
+![Stars](https://img.shields.io/github/stars/BioinfoMachineLearning/PoseBench?color=yellow&style=social)
+![](https://img.shields.io/badge/dataset-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
 **CarsiDock: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training**  
 Heng Cai, Chao Shen, Tianye Jian, Xujun Zhang, Tong Chen, Xiaoqi Han, Zhuo Yang, Wei Dang, Chang-Yu Hsieh, Yu Kang, Peichen Pan, Xiangyang Ji, Jianfei Song, Tingjun Hou and Yafeng Deng  
 *Chemical Science, December 2023*  
