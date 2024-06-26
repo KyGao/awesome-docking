@@ -213,6 +213,14 @@ Tiejun Dong, Ziduo Yang, Jun Zhou, and Calvin Yu-Chian Chen
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**Pre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction Models**  
+Lihang Liu, Shanzhuo Zhang, Donglong He, Xianbin Ye, Jingbo Zhou, Xiaonan Zhang, Yaoyao Jiang, Weiming Diao, Hang Yin, Hua Chai, Fan Wang, Jingzhou He, Liang Zheng, Yonghui Li, Xiaomin Fang  
+*Preprint, October 2023*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2310.13913)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe0b05305ce09e20d64394753ac2eca2f7aaf7d9d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock)
+![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?color=yellow&style=social)
+
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**  
 Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane  
 *Preprint, October 2023.*  
