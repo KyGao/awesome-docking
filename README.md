@@ -67,6 +67,13 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**Fully flexible molecular alignment enables accurate ligand structure modelling**  
+Zhihao Wang, Fan Zhou, Zechen Wang, Qiuyue Hu, Yong-Qiang Li, Sheng Wang, Yanjie Wei, Liangzhen Zheng, Weifeng Li, Xiangda Peng  
+*JCIM, July 2024*  
+[![](https://img.shields.io/badge/JCIM-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00669)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf416a733a88126a3c46b6c28788ba51b22f4846%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
 **Deep Learning for Protein-Ligand Docking: Are We There Yet?**  
 Alex Morehead, Nabin Giri, Jian Liu, Jianlin Cheng  
 *Preprint, May 2024*  
