@@ -67,6 +67,14 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+**One-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep Learning**  
+Kelei He, Tiejun Dong, Jinhui Wu, Junfeng Zhang  
+*Preprint, Aug 2024*  
+[![](https://img.shields.io/badge/arXiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2408.11356)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://gitfront.io/r/LigPose/kMWuV4DW6JpE/LigPose4Review/)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
 **Fully flexible molecular alignment enables accurate ligand structure modelling**  
 Zhihao Wang, Fan Zhou, Zechen Wang, Qiuyue Hu, Yong-Qiang Li, Sheng Wang, Yanjie Wei, Liangzhen Zheng, Weifeng Li, Xiangda Peng  
 *JCIM, July 2024*  
