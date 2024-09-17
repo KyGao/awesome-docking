@@ -43,19 +43,29 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 
 ## Versatile Docking
 
+
+🔥**Chai-1 Technical Report**   
+Chai-1 Discovery Team  
+*Report, Sep 2024*  
+[![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://chaiassets.com/chai-1/paper/technical_report_v1.pdf)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/chaidiscovery/chai-lab/)
+![Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?color=yellow&style=social)
+
+🔥 **AlphaFold3 Open-Source Implementation (Ligo)**   
+Edward Harris, Emily Egerton-Warburton, Arda Goreci  
+*Project, Sep 2024*  
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Ligo-Biosciences/AlphaFold3)
+![Stars](https://img.shields.io/github/stars/Ligo-Biosciences/AlphaFold3?color=yellow&style=social)
+
+
 🔥**Accurate structure prediction of biomolecular interactions with AlphaFold 3**   
 Josh Abramson, Jonas Adler, Jack Dunger, Richard Evans, Tim Green, Alexander Pritzel, Olaf Ronneberger, Lindsay Willmore, Andrew J. Ballard, Joshua Bambrick, Sebastian W. Bodenstein, David A. Evans, Chia-Chun Hung, Michael O’Neill, David Reiman, Kathryn Tunyasuvunakool, Zachary Wu, Akvilė Žemgulytė, Eirini Arvaniti, Charles Beattie, Ottavia Bertolli, Alex Bridgland, Alexey Cherepanov, Miles Congreve, Alexander I. Cowen-Rivers, Andrew Cowie, Michael Figurnov, Fabian B. Fuchs, Hannah Gladman, Rishub Jain, Yousuf A. Khan, Caroline M. R. Low, Kuba Perlin, Anna Potapenko, Pascal Savy, Sukhdeep Singh, Adrian Stecula, Ashok Thillaisundaram, Catherine Tong, Sergei Yakneen, Ellen D. Zhong, Michal Zielinski, Augustin Žídek, Victor Bapst, Pushmeet Kohli, Max Jaderberg, Demis Hassabis & John M. Jumper  
 *Nature, May 2024*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41586-024-07487-w)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7572ba7f604ef95d7acdd657ebac458106bd35df%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/news-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 [![](https://img.shields.io/badge/server-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://golgi.sandbox.google.com/)
 
-🔥**A glimpse of the next generation of AlphaFold**   
-Google DeepMind AlphaFold team and Isomorphic Labs team  
-*News, October 2023*  
-[![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
-[![](https://img.shields.io/badge/news-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold)
-    
 🔥**Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**  
 Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David Baker  
 *Science, March 2024*  
@@ -63,6 +73,14 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbbd97deb6e06fe24c5f20fa85e1f276e3065f99f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
 ![Stars](https://img.shields.io/github/stars/baker-laboratory/RoseTTAFold-All-Atom?color=yellow&style=social)
+
+🔥**A glimpse of the next generation of AlphaFold**   
+Google DeepMind AlphaFold team and Isomorphic Labs team  
+*News, Oct 2023*  
+[![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
+[![](https://img.shields.io/badge/news-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold)
+    
+
 
 ## Protein-Ligand Docking
 
