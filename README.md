@@ -3,7 +3,8 @@
 </h1>
 <div align="center">
   
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![Stars](https://img.shields.io/github/stars/KyGao/awesome-docking?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/KyGao/awesome-docking?color=blue&label=Fork&labelColor=555555)
+[![
+Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![Stars](https://img.shields.io/github/stars/KyGao/awesome-docking?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/KyGao/awesome-docking?color=blue&label=Fork&labelColor=555555)
 </div>
 <p align="center">
   <img src="resources/cover.png" width="400">
@@ -43,15 +44,21 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 
 ## Versatile Docking
 
+**Boltz-1: DemocratizingBiomolecularInteractionModeling**   
+Jeremy Wohlwend*, Gabriele Corso*, Saro Passaro*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay  
+*Report, Nov 2024*  
+[![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://gcorso.github.io/assets/boltz1.pdf)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jwohlwend/boltz)
+![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow&style=social)
 
-🔥**Chai-1 Technical Report**   
+**Chai-1 Technical Report**   
 Chai-1 Discovery Team  
 *Report, Sep 2024*  
 [![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://chaiassets.com/chai-1/paper/technical_report_v1.pdf)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/chaidiscovery/chai-lab/)
 ![Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?color=yellow&style=social)
 
-🔥 **AlphaFold3 Open-Source Implementation (Ligo)**   
+**AlphaFold3 Open-Source Implementation (Ligo)**   
 Edward Harris, Emily Egerton-Warburton, Arda Goreci  
 *Project, Sep 2024*  
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Ligo-Biosciences/AlphaFold3)
