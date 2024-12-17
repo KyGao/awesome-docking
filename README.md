@@ -92,6 +92,16 @@ Google DeepMind AlphaFold team and Isomorphic Labs team
 ## Protein-Ligand Docking
 
 ### 2024 -- Protein-Ligand
+
+**SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein–Ligand Complex Prediction**  
+Duanhua Cao, Mingan Chen, Runze Zhang, Zhaokun Wang, Manlin Huang, Jie Yu, Xinyu Jiang, Zhehuan Fan, Wei Zhang, Hao Zhou, Xutong Li, Zunyun Fu, Sulin Zhang, Mingyue Zheng  
+*Nature Methods, Nov 2024*  
+[![](https://img.shields.io/badge/nature_methods-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02516-y)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F48753fd45da00aa39a4a14841683158f73625d38%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/CAODH/SurfDock)
+![Stars](https://img.shields.io/github/stars/CAODH/SurfDock?color=yellow&style=social)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 **One-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep Learning**  
 Kelei He, Tiejun Dong, Jinhui Wu, Junfeng Zhang  
 *Preprint, Aug 2024*  
@@ -100,7 +110,7 @@ Kelei He, Tiejun Dong, Jinhui Wu, Junfeng Zhang
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 
-**Fully flexible molecular alignment enables accurate ligand structure modelling**  
+**Fully Flexible Molecular Alignment Enables Accurate Ligand Structure Modelling**  
 Zhihao Wang, Fan Zhou, Zechen Wang, Qiuyue Hu, Yong-Qiang Li, Sheng Wang, Yanjie Wei, Liangzhen Zheng, Weifeng Li, Xiangda Peng  
 *JCIM, July 2024*  
 [![](https://img.shields.io/badge/JCIM-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00669)
