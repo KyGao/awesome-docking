@@ -87,6 +87,14 @@ Google DeepMind AlphaFold team and Isomorphic Labs team
 [![](https://img.shields.io/badge/report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
 [![](https://img.shields.io/badge/news-AB9FF2?style=flat&logo=temporal&labelColor=555555)](https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold)
     
+**The LightDock Server: Artificial Intelligence-powered modeling of macromolecular interactions**   
+Zymvol Biomodeling  
+*Nucleic Acids Research, July 2023*  
+[![](https://img.shields.io/badge/nucleic_acids_research-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/nar/article/51/W1/W298/7151343?login=false)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/lightdock/lightdock)
+![Stars](https://img.shields.io/github/stars/lightdock/lightdock?color=yellow&style=social)
+    
+
 
 
 ## Protein-Ligand Docking
