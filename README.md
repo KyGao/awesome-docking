@@ -20,6 +20,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 
 - [Versatile Docking](#versatile-docking)
 - [Protein-Ligand Docking](#protein-ligand-docking)
+  - [2025 -- Protein-Ligand](#2025----protein-ligand)
   - [2024 -- Protein-Ligand](#2024----protein-ligand)
   - [2023 -- Protein-Ligand](#2023----protein-ligand)
   - [2022 -- Protein-Ligand](#2022----protein-ligand)
