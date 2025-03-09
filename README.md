@@ -99,6 +99,15 @@ Zymvol Biomodeling
 
 ## Protein-Ligand Docking
 
+### 2025 -- Protein-Ligand
+**Fast and Accurate Blind Flexible Docking**  
+Zizhuo Zhang, Lijun Wu, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo Han  
+*ICLR, Jan. 2025*  
+[![](https://img.shields.io/badge/ICLR-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=iezDdA9oeB)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/resistzzz/FABFlex)
+![Stars](https://img.shields.io/github/stars/resistzzz/FABFlex?color=yellow&style=social)
+![](https://img.shields.io/badge/flexible--blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
 ### 2024 -- Protein-Ligand
 
 **SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein–Ligand Complex Prediction**  
