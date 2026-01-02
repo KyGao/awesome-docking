@@ -101,6 +101,13 @@ Zymvol Biomodeling
 ## Protein-Ligand Docking
 
 ### 2025 -- Protein-Ligand
+**SIGMADOCK: UNTWISTING MOLECULAR DOCKINGWITH FRAGMENT-BASED SE(3) DIFFUSION**
+Alvaro Prat, Leo Zhang, Charlotte M. Deane, Yee Whye Teh, Garrett M. Morris  
+*Arxiv, Nov. 2025*  
+[![](https://img.shields.io/badge/Arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2511.04854v1)
+![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+
+
 **Fast and Accurate Blind Flexible Docking**  
 Zizhuo Zhang, Lijun Wu, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo Han  
 *ICLR, Jan. 2025*  
