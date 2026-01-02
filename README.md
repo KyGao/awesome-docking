@@ -105,6 +105,7 @@ Zymvol Biomodeling
 Alvaro Prat, Leo Zhang, Charlotte M. Deane, Yee Whye Teh, Garrett M. Morris  
 *Arxiv, Nov. 2025*  
 [![](https://img.shields.io/badge/Arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2511.04854v1)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F336c96c8395c0a21c86293b556d24c50fd8469bd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
 
@@ -112,6 +113,7 @@ Alvaro Prat, Leo Zhang, Charlotte M. Deane, Yee Whye Teh, Garrett M. Morris
 Zizhuo Zhang, Lijun Wu, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo Han  
 *ICLR, Jan. 2025*  
 [![](https://img.shields.io/badge/ICLR-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=iezDdA9oeB)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c5a047526c7845061ec2120a68d84f3a610a954%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/resistzzz/FABFlex)
 ![Stars](https://img.shields.io/github/stars/resistzzz/FABFlex?color=yellow&style=social)
 ![](https://img.shields.io/badge/flexible--blind-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
