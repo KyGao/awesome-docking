@@ -108,6 +108,13 @@ Alvaro Prat, Leo Zhang, Charlotte M. Deane, Yee Whye Teh, Garrett M. Morris
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F336c96c8395c0a21c86293b556d24c50fd8469bd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
 
+**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**  
+Daria Frolova, Talgat Daulbaev, Egor Sevriugov, Sergei A. Nikolenko, Dmitry N. Ivankov, Ivan Oseledets, Marina A. Pak  
+*Arxiv, Oct. 2025*  
+[![](https://img.shields.io/badge/Arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2510.14586)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/LigandPro/Matcha)
+![Stars](https://img.shields.io/github/stars/LigandPro/Matcha?color=yellow&style=social)
+
 
 **Fast and Accurate Blind Flexible Docking**  
 Zizhuo Zhang, Lijun Wu, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo Han  
